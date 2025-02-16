@@ -1,0 +1,10 @@
+# MPLAB X Project Cache and Build Files  
+nbproject/private/  
+build/  
+dist/  
+*.o  
+*.d  
+*.hex  
+*.elf  
+*.cof  
+*.cache  
